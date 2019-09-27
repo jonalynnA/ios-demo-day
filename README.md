@@ -41,17 +41,25 @@ The video demo is for sharing your work on your portfolio, but it is also a fall
 ## Questions (Answer inline)
 
 1. What was your favorite feature to implement? Why?
+- I liked implementing the progress view feature. It's a cool visual representation to have as you step up your episode count
 2. What was your #1 obstacle or bug that you fixed? How did you fix it?
+- Honestly, the biggest obstacle was github and figuring out how to work as a team with merges and pushes and pulls! 
 3. Are you proud of a code file? Why?
+- I am proud of the project as a whole. Nothing in particular jumps out as HOLY CODE, but I think it was a great first app to build from scratch, and I hope to actually keep on improving the app as I progress in school and eventually get it on the app store
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
+-Track your favorite TV shows as you Binge watch in preparation for the next season. Use the sort by priority feature to organize your Binge watching so you can get caught up on all of your shows before the premier
 5. What is your #1 feature?
+-The sorting function...the algorithm it uses to sort based on date and current place in season
 6. What are you future goals?
+-Definitely get more visuals on this app
+-Integrate a database (movieDB but for TV)
+-Team up with a streaming service to track in real time
 
 ## Links (Add your links)
 
-* YouTube demo video: `<insert video url here>`
-* Code: `<insert Github repository link here>`
-* Trello: `<insert trello board here>`
+* YouTube demo video: https://www.youtube.com/watch?v=yaFzQsrV9f0
+* Code:https://github.com/jonalynnA/iOSBuildWeek1-BingeWatchingCalculator
+* Trello: https://trello.com/invite/b/VLJxyefu/21d9b8696fd3b1ea7d82d26c4818dd22/ios10-build-week-1
 * Test Flight: `<insert beta signup link here>`
 
 ## Presentation Flow
